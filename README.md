@@ -1,2 +1,2 @@
 # testrepo
-The first try ro edit the file
+The first try to edit the file
